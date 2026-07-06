@@ -1,4 +1,4 @@
-package config;
+package com.config;
 
 import java.io.InputStream;
 import java.nio.file.Files;
